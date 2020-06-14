@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: aqua;
+}
+
+header{
+    background-color: blueviolet;
+    height: 100px;
+
+}
+
+header h1{
+color: white;
+text-align: center;
+padding: 24px 0px 0px 0px;
+
+}
+
+section{
+    height: 400px;
+    background-color: blueviolet;
+    margin: 10px 10px 10px 10px;
+
+}
+
+nav{
+    background-color: chartreuse;
+    width: 50%;
+    height: 94.5%;
+    margin: 10px;
+    float: left;
+
+
+}
+
+nav h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: arial;
+    padding-top: 150px;
+}
+article{
+    background-color: chartreuse;
+    width: 20%;
+    height: 94.5%;
+    margin: 10px 0px 10px 0px;
+    float: left;
+    }
+
+article h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+    padding-top: 150px;
+
+    }
+
+ads{
+    background-color: chartreuse;
+    width: 27%;
+    height: 94.5%;
+    margin: 10px 10px 10px 0px;
+    float: right;
+}
+ads h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+    padding-top: 150px;
+}
+
+footer{
+    height: 100px;
+    background-color: blueviolet;
+    margin: 10px;
+}
+footer h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+    padding-top: 20px;
+
+
+}
